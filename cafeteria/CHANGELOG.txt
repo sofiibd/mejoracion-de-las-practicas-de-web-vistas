@@ -1,0 +1,12 @@
+2026-01-07 - Changes made by assistant:
+- Reorganized and fixed HTML structure in index.html
+- Fixed broken tag in Brownie card
+- Fixed modal close selector and added guards
+- Normalized cart logic and selectors
+- 2026-01-07 (this change): Added 'Eliminar' button per cart item and 'Vaciar' (clear order) button in cart header; implemented JS to remove items and clear the cart
+
+How to test:
+- Open index.html in browser or run a local server
+- Click 'Ver' to open modal, click × to close
+- Add items to cart and use 'Eliminar' to remove individual items
+- Use 'Vaciar' to clear entire order
